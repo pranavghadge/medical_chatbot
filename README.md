@@ -1,1 +1,1 @@
-Medical ChatBot Using LLM, LangChain, Pinecone
+# Medical ChatBot Using LLM 🧠, LangChain 🦜, Pinecone ⚛
