@@ -47,3 +47,7 @@ open up localhost:
 - Flask
 - GPT
 - Pinecone
+
+<p align="center">
+  <img src="https://github.com/pranavghadge/medical_chatbot/blob/main/FlowChart.png" width="300"/>
+</p>
